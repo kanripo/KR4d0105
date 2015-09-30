@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 濟北晁先生雞肋集
+#+DATE: 2015-09-11 10:03:39.519267
+#+PROPERTY: ID KR4d0105
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 71
+#+PROPERTY: FILE SB04n0551-071雞肋集-後序.
+<pb:KR4d0105_SBCK_071-1a>¶
+　&KR0025;兄无&KR3102;平曰著述甚冨元祐末¶
+　在館閣時嘗自製其序宣和以前¶
+　世莫散傳今所得者古&KR1117;騷辭四十¶
+　有三古律詩六百三十有三表&KR2227;雜文¶
+　史評六百九十有三自捐館舍逮今二¶
+　十八年始得編次爲七十卷刋于建陽¶
+<pb:KR4d0105_SBCK_071-1b>¶
+　紹興七年丁巳十一月旦日弟右朝奉¶
+　郎權福建路轉運判官謙之謹題¶
+<pb:KR4d0105_SBCK_071-2a>¶
