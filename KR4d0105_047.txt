@@ -6,10 +6,16 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 47
 #+PROPERTY: FILE SB04n0551-047雞肋集-卷第四十七.
+
+# SB1_1032-096.png
+# page missing
 <pb:KR4d0105_SBCK_047-1a>¶
-¶
+# SB1_1032-097.png
+
 濟北晁先生雞肋集目録(終)¶
 <pb:KR4d0105_SBCK_047-1b>¶
+# SB1_1032-098.png
+# page missing
 <pb:KR4d0105_SBCK_047-1b>¶
 　　事然觀仁師事史臣亦有忌嫉之語何耶語¶
 　　曰君子而不仁者有矣人情大不美雖聖人¶

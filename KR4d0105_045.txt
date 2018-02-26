@@ -6,8 +6,12 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 45
 #+PROPERTY: FILE SB04n0551-045雞肋集-卷第四十五.
+
+# SB1_1032-034.png
+# page missing
 <pb:KR4d0105_SBCK_045-1a>¶
-¶
+# SB1_1032-035.png
+
 濟北晁先生雞肋集目録(終)¶
 <pb:KR4d0105_SBCK_045-1b>¶
 濟北晁先生雞肋集巻第四十五¶

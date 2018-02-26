@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 49
 #+PROPERTY: FILE SB04n0551-049雞肋集-卷第四十九.
+
+# SB1_1033-002.png
+# page missing
 <pb:KR4d0105_SBCK_049-1a>¶
+# SB1_1033-003.png
 ¶
 濟北晁先生雞肋集目錄(終)¶
 <pb:KR4d0105_SBCK_049-1b>¶

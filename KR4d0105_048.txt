@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 48
 #+PROPERTY: FILE SB04n0551-048雞肋集-卷第四十八.
+
+# SB1_1032-126.png
+# page missing
 <pb:KR4d0105_SBCK_048-1a>¶
+# SB1_1032-127.png
 ¶
 濟北晁先生雞肋集目録(終)¶
 <pb:KR4d0105_SBCK_048-1b>¶
